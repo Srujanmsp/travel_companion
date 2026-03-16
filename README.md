@@ -140,19 +140,19 @@ npm run dev
 
 ### Home Page
 
-![Home](screenshots/HomePage.png)
+![Home](Screenshots/HomePage.png)
 
 ### Travel Dashboard
 
-![Dashboard](screenshots/UserDashboard.png)
+![Dashboard](Screenshots/UserDashboard.png)
 
 ### Create Trip Page
 
-![Create Trip](screenshots/StartPlanningPage.png)
+![Create Trip](Screenshots/StartPlanningPage.png)
 
 ### User Login
 
-![User Login](screenshots/Login.png)
+![User Login](Screenshots/Login.png)
 
 More screenshots of the application, including budget planning, activity planning, stop management, and checklist features, can be found in the Screenshots folder in this repository.
 
