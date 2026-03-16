@@ -26,7 +26,7 @@ export default function PlanMap({
   optimiseTick = 0,
 }) {
   const { isLoaded } = useJsApiLoader({
-    googleMapsApiKey: "AIzaSyAwVXOO1I8Ek1TwCSh1HBFzNUFX4k1e_e0",
+    googleMapsApiKey:import.meta.env.VITE_GOOGLE_MAPS_API_KEY,
   });
 
   const [map, setMap] = useState(null);
