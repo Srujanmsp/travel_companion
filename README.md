@@ -136,7 +136,7 @@ npm run dev
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 ### Home Page
 
@@ -157,8 +157,19 @@ npm run dev
 More screenshots of the application, including budget planning, activity planning, stop management, and checklist features, can be found in the Screenshots folder in this repository.
 
 ---
+## Wireframes / UI Design
 
-## 📌 Future Improvements
+The initial wireframes for the Travel Companion application were created during the design phase to plan the layout and user flow of the system.
+
+You can view the wireframe design here:
+
+🔗 Wireframe Design:
+https://wireframe.cc/1BUi7y
+
+These wireframes illustrate the structure of key pages such as the home page, login page, dashboard, and travel planning interface.
+
+---
+## Future Improvements
 
 * Integration with travel APIs for destination information
 * Hotel and flight recommendations
@@ -168,12 +179,6 @@ More screenshots of the application, including budget planning, activity plannin
 
 ---
 
-## 👨‍💻 Author
+## Author
 
-This project was developed as a full-stack application using the MERN stack for learning and demonstration purposes.
-
----
-
-## 📄 License
-
-This project is created for educational and learning purposes.
+Developed by Srujan M S as part of a full-stack MERN project for learning and portfolio purposes.
