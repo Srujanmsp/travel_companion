@@ -105,7 +105,7 @@ travel_companion
 
 ### 1. Clone the repository
 
-git clone https://github.com/yourusername/travel-companion.git
+git clone https://github.com/Srujanmsp/travel_companion.git
 
 ### 2. Navigate to the project folder
 
